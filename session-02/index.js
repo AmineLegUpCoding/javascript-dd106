@@ -6,7 +6,7 @@ function greet(){
 function somme(nombre1, nombre2){
     return nombre1 + nombre2
 }
-
+//
 // déclarations des variables
 const PI = 3.14
 function inscrire(){
